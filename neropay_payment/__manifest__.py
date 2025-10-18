@@ -1,5 +1,5 @@
 {
-    'name': 'NeroPay Payment Acquirer',
+    'name': 'NeroPay Payment Gateway',
     'version': '17.0.1.0',
     'category': 'Accounting/Payment Acquirers',
     'summary': 'Accept online payments securely with NeroPay',
@@ -42,3 +42,4 @@ Stockport, UK
 </p>
 """
 }
+
