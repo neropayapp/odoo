@@ -1,4 +1,4 @@
-﻿{
+{
     'name': 'Neropay Payment Acquirer',
     'version': '1.0',
     'category': 'Accounting/Payment Acquirers',
