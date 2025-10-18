@@ -1,0 +1,9 @@
+﻿<odoo>
+<template id='payment_neropay_form' inherit_id='payment.payment_acquirer_form'>
+<xpath expr='//div[@id="acquirer_provider_fields"]' position='inside'>
+<div class='form-group'><label>Public Key</label><input name='neropay_public_key' class='form-control'/></div>
+<div class='form-group'><label>Secret Key</label><input name='neropay_secret_key' class='form-control'/></div>
+<div class='form-group'><label>Mode</label><select name='neropay_mode' class='form-control'><option value='sandbox'>Sandbox</option><option value='live'>Live</option></select></div>
+</xpath>
+</template>
+</odoo>
