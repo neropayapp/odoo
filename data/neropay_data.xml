@@ -1,8 +1,0 @@
-﻿<odoo>
-    <record id="payment_acquirer_neropay" model="payment.acquirer">
-        <field name="name">Neropay</field>
-        <field name="provider">neropay</field>
-        <field name="state">test</field>
-        <field name="view_template_id" ref="payment_neropay.payment_neropay_form"/>
-    </record>
-</odoo>
