@@ -8,5 +8,6 @@ Accept secure payments with Neropay inside Odoo.
 
 ## Support
 📧 support@neropay.app  
-📞 +44 333 049 4380  
+🌐 docs.neropay.app 
 🏢 Stockport, UK
+
