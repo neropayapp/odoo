@@ -8,6 +8,7 @@ Accept secure payments with Neropay inside Odoo.
 
 ## Support
 📧 support@neropay.app  
-🌐 docs.neropay.app 
+🌐 docs.neropay.app
 🏢 Stockport, UK
+
 
